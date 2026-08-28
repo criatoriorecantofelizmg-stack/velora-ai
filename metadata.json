@@ -1,0 +1,6 @@
+{
+  "name": "VELORA",
+  "description": "VELORA — AI Video Studio & Cinematic Neural Generative Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
